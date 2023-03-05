@@ -8,3 +8,4 @@ let firstName = "Matlida";
 console.log(firstName);
 console.log(firstName);
 console.log(firstName);
+console.log(firstName);
